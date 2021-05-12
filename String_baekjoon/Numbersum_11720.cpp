@@ -6,7 +6,7 @@ void numberSum()
 	int num;
 	cin >> num;
 
-	char* array = new char[num];
+	char* array = new char[num+1];
 	cin >> array;
 
 	int sum = 0;
@@ -16,4 +16,6 @@ void numberSum()
 	}
 
 	cout << sum << endl;
+
+	delete[] array;
 }

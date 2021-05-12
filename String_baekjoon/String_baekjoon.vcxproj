@@ -146,6 +146,10 @@
     </ClCompile>
     <ClCompile Include="StringMain.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ASCIIcode_11654.h" />
+    <ClInclude Include="Numbersum_11720.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

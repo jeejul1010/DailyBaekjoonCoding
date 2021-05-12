@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
+#include "ASCIIcode_11654.h"
+#include "Numbersum_11720.h"
 
-extern void ASCIIcode();
-extern void numberSum();
+using namespace std;
 
 int main() {
 	
