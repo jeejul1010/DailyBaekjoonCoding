@@ -1,24 +1,19 @@
 #include <iostream>
 using namespace std;
 
-int main()
+void numberSum()
 {
 	int num;
 	cin >> num;
 
-	int* array = new int[num];
-	for (int i = 0; i < num; i++)
-	{
-		cin >> array[i];
-	}
+	char* array = new char[num];
+	cin >> array;
 
 	int sum = 0;
 	for (int i = 0; i < num; i++)
 	{
-		sum += array[i];
+		sum += (array[i] - '0');
 	}
 
 	cout << sum << endl;
-
-	return 0;
 }
