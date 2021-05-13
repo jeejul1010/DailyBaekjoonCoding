@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String_baekjoon", "String_baekjoon\String_baekjoon.vcxproj", "{5EAABB75-82AB-48CB-9E2E-759CCA6BD92D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greedy_baekjoon", "Greedy_baekjoon\Greedy_baekjoon.vcxproj", "{6CD72549-A71A-4032-A694-048815F647AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{5EAABB75-82AB-48CB-9E2E-759CCA6BD92D}.Release|x64.Build.0 = Release|x64
 		{5EAABB75-82AB-48CB-9E2E-759CCA6BD92D}.Release|x86.ActiveCfg = Release|Win32
 		{5EAABB75-82AB-48CB-9E2E-759CCA6BD92D}.Release|x86.Build.0 = Release|Win32
+		{6CD72549-A71A-4032-A694-048815F647AD}.Debug|x64.ActiveCfg = Debug|x64
+		{6CD72549-A71A-4032-A694-048815F647AD}.Debug|x64.Build.0 = Debug|x64
+		{6CD72549-A71A-4032-A694-048815F647AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CD72549-A71A-4032-A694-048815F647AD}.Debug|x86.Build.0 = Debug|Win32
+		{6CD72549-A71A-4032-A694-048815F647AD}.Release|x64.ActiveCfg = Release|x64
+		{6CD72549-A71A-4032-A694-048815F647AD}.Release|x64.Build.0 = Release|x64
+		{6CD72549-A71A-4032-A694-048815F647AD}.Release|x86.ActiveCfg = Release|Win32
+		{6CD72549-A71A-4032-A694-048815F647AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
