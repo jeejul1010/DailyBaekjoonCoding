@@ -138,12 +138,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AssignConference_1931.cpp" />
     <ClCompile Include="ATM_11399.cpp" />
+    <ClCompile Include="Change0_11047.cpp" />
     <ClCompile Include="GreedyMain.cpp" />
     <ClCompile Include="SugarDelivery_2839.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AssignConference_1931.h" />
     <ClInclude Include="ATM_11399.h" />
+    <ClInclude Include="Change0_11047.h" />
     <ClInclude Include="SugarDelivery_2839.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
