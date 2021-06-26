@@ -31,3 +31,5 @@ public:
 
 };
 
+typedef GraphA* graphPtr;
+

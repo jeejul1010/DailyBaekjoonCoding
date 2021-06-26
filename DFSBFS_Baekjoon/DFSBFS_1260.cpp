@@ -4,8 +4,6 @@
 #include "QueueP.h"
 using namespace std;
 
-typedef GraphA* graphPtr;
-
 void dfs(graphPtr g, int startV);
 void bfs(graphPtr g, int startV);
 
