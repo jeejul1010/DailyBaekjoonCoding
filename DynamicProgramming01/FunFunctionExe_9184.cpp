@@ -29,10 +29,6 @@ void funFunctionExe()
 				{
 					w[i][j][k] = 1;
 				}
-				else if (i > 70 || j > 70 || k > 70)
-				{
-					w[i][j][k] = w[70][70][70];
-				}
 				else if (i < j && j < k)
 				{
 					w[i][j][k] = w[i][j][k-1]+w[i][j - 1][k - 1] - w[i][j - 1][k];
@@ -42,6 +38,21 @@ void funFunctionExe()
 					w[i][j][k] = w[i - 1][j][k] + w[i-1][j-1][k]+w[i - 1][j][k - 1] - w[i - 1][j - 1][k - 1];
 				}
 				
+			}
+		}
+	}
+
+	for (int i = 51; i < MAX; i++)
+	{
+		for (int j = 51; j < MAX; j++)
+		{
+			for (int k = 51; k < MAX; k++)
+			{
+				if (i > 70 || j > 70 || k > 70)
+				{
+					w[i][j][k] = w[70][70][70];
+				}
+
 			}
 		}
 	}
