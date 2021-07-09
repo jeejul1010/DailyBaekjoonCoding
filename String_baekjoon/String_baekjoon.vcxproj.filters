@@ -27,6 +27,9 @@
     <ClCompile Include="FindingAlphabet_10809.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RepeatingString_2675.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Numbersum_11720.h">
@@ -36,6 +39,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="FindingAlphabet_10809.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="RepeatingString_2675.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
