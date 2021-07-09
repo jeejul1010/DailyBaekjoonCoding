@@ -147,12 +147,14 @@
     </ClCompile>
     <ClCompile Include="RepeatingString_2675.cpp" />
     <ClCompile Include="StringMain.cpp" />
+    <ClCompile Include="WordStudy_1157.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ASCIIcode_11654.h" />
     <ClInclude Include="FindingAlphabet_10809.h" />
     <ClInclude Include="Numbersum_11720.h" />
     <ClInclude Include="RepeatingString_2675.h" />
+    <ClInclude Include="WordStudy_1157.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -33,5 +33,10 @@ void repeatingString()
 		}
 		cout << endl;
 	}
+
+	for (int i = 0; i < sArr.size(); i++)
+	{
+		delete[] sArr[i];
+	}
 	
 }
