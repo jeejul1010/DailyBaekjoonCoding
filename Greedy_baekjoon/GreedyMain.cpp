@@ -3,6 +3,7 @@
 #include "Change0_11047.h"
 #include "AssignConference_1931.h"
 #include "LostParanthesis_1541.h"
+#include "GasStation_13305.h"
 
 int main()
 {
@@ -10,7 +11,8 @@ int main()
 	//atm();
 	//change();
 	//assignConference();
-	lostParanthesis();
+	//lostParanthesis();
+	gasStation();
 	return 0;
 }
 

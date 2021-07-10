@@ -62,23 +62,17 @@ void assignConference()
 
 	cout << allocate.size() << endl;
 
+	delete[]conf;
+
 }
 
 bool cmp(const Conference& a, const Conference& b)
 {
-	if (a.start < b.start)
+	if (a.start == b.start)
 	{
-		return true;
+		return a.finish < b.finish;
 	}
-	else if (a.start == b.start)
-	{
-		if (a.finish < b.finish)
-		{
-			return true;
-		}
-		
-	}
-	return false;
+	return a.start < b.start;
 }
 
 void merge(Conference conf[], int f, int mid, int l)

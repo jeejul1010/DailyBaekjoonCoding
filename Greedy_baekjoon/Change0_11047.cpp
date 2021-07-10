@@ -21,6 +21,10 @@ void change()
 	{
 		count += K / coinType[N - 1 - i];
 		K %= coinType[N - 1 - i];
+		if (K == 0)
+		{
+			break;
+		}
 	}
 
 	cout << count << endl;
