@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFSBFS_baekjoon", "DFSBFS_B
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicProgramming01", "DynamicProgramming01\DynamicProgramming01.vcxproj", "{C219AB7D-B5BF-456E-89F0-DBB60D4D12B4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting_baekjoon", "Sorting_baekjoon\Sorting_baekjoon.vcxproj", "{29D1F6EA-EC16-41D8-A04B-CED525726D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{C219AB7D-B5BF-456E-89F0-DBB60D4D12B4}.Release|x64.Build.0 = Release|x64
 		{C219AB7D-B5BF-456E-89F0-DBB60D4D12B4}.Release|x86.ActiveCfg = Release|Win32
 		{C219AB7D-B5BF-456E-89F0-DBB60D4D12B4}.Release|x86.Build.0 = Release|Win32
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Debug|x64.ActiveCfg = Debug|x64
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Debug|x64.Build.0 = Debug|x64
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Debug|x86.ActiveCfg = Debug|Win32
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Debug|x86.Build.0 = Debug|Win32
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Release|x64.ActiveCfg = Release|x64
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Release|x64.Build.0 = Release|x64
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Release|x86.ActiveCfg = Release|Win32
+		{29D1F6EA-EC16-41D8-A04B-CED525726D08}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

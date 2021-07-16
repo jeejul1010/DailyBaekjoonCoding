@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{5EAABB75-82AB-48CB-9E2E-759CCA6BD92D}</ProjectGuid>
-    <RootNamespace>Stringbaekjoon</RootNamespace>
+    <ProjectGuid>{29D1F6EA-EC16-41D8-A04B-CED525726D08}</ProjectGuid>
+    <RootNamespace>Sortingbaekjoon</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,25 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ASCIIcode_11654.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="FindingAlphabet_10809.cpp" />
-    <ClCompile Include="Numbersum_11720.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="RepeatingString_2675.cpp" />
-    <ClCompile Include="StringMain.cpp" />
-    <ClCompile Include="WordCount_1152.cpp" />
-    <ClCompile Include="WordStudy_1157.cpp" />
+    <ClCompile Include="SortingMain.cpp" />
+    <ClCompile Include="SortingNum_2750.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ASCIIcode_11654.h" />
-    <ClInclude Include="FindingAlphabet_10809.h" />
-    <ClInclude Include="Numbersum_11720.h" />
-    <ClInclude Include="RepeatingString_2675.h" />
-    <ClInclude Include="WordCount_1152.h" />
-    <ClInclude Include="WordStudy_1157.h" />
+    <ClInclude Include="SortingNum_2750.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
