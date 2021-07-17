@@ -36,6 +36,15 @@
     <ClCompile Include="WordCount_1152.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Sangsoo_2908.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dial_5622.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Croatia_2941.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Numbersum_11720.h">
@@ -54,6 +63,15 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="WordCount_1152.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Sangsoo_2908.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Dial_5622.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Croatia_2941.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

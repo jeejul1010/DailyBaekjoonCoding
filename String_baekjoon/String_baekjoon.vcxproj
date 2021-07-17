@@ -141,20 +141,26 @@
     <ClCompile Include="ASCIIcode_11654.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Croatia_2941.cpp" />
+    <ClCompile Include="Dial_5622.cpp" />
     <ClCompile Include="FindingAlphabet_10809.cpp" />
     <ClCompile Include="Numbersum_11720.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="RepeatingString_2675.cpp" />
+    <ClCompile Include="Sangsoo_2908.cpp" />
     <ClCompile Include="StringMain.cpp" />
     <ClCompile Include="WordCount_1152.cpp" />
     <ClCompile Include="WordStudy_1157.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ASCIIcode_11654.h" />
+    <ClInclude Include="Croatia_2941.h" />
+    <ClInclude Include="Dial_5622.h" />
     <ClInclude Include="FindingAlphabet_10809.h" />
     <ClInclude Include="Numbersum_11720.h" />
     <ClInclude Include="RepeatingString_2675.h" />
+    <ClInclude Include="Sangsoo_2908.h" />
     <ClInclude Include="WordCount_1152.h" />
     <ClInclude Include="WordStudy_1157.h" />
   </ItemGroup>
