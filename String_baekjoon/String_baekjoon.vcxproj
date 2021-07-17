@@ -144,6 +144,7 @@
     <ClCompile Include="Croatia_2941.cpp" />
     <ClCompile Include="Dial_5622.cpp" />
     <ClCompile Include="FindingAlphabet_10809.cpp" />
+    <ClCompile Include="GroupWordChecker_1316.cpp" />
     <ClCompile Include="Numbersum_11720.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClCompile>
@@ -158,6 +159,7 @@
     <ClInclude Include="Croatia_2941.h" />
     <ClInclude Include="Dial_5622.h" />
     <ClInclude Include="FindingAlphabet_10809.h" />
+    <ClInclude Include="GroupWordChecker_1316.h" />
     <ClInclude Include="Numbersum_11720.h" />
     <ClInclude Include="RepeatingString_2675.h" />
     <ClInclude Include="Sangsoo_2908.h" />

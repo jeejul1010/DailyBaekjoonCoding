@@ -8,6 +8,7 @@
 #include "Sangsoo_2908.h"
 #include "Dial_5622.h"
 #include "Croatia_2941.h"
+#include "GroupWordChecker_1316.h"
 
 using namespace std;
 
@@ -21,7 +22,8 @@ int main() {
 	//wordCount();
 	//sangSoo();
 	//dial();
-	croatia();
+	//croatia();
+	groupWordChecker();
 	return 0;
 
 }
