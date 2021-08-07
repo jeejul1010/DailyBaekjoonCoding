@@ -140,9 +140,11 @@
   <ItemGroup>
     <ClCompile Include="BinarySearchMain.cpp" />
     <ClCompile Include="FindingNum_1920.cpp" />
+    <ClCompile Include="NumberCard2_10816.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FindingNum_1920.h" />
+    <ClInclude Include="NumberCard2_10816.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
