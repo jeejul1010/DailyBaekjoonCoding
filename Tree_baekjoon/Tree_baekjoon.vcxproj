@@ -139,11 +139,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="findingTreeParent_11725.cpp" />
+    <ClCompile Include="treeDiameter2_1967.cpp" />
     <ClCompile Include="treeDiameter_1167.cpp" />
     <ClCompile Include="treeMain.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="findingTreeParent_11725.h" />
+    <ClInclude Include="treeDiameter2_1967.h" />
     <ClInclude Include="treeDiameter_1167.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
