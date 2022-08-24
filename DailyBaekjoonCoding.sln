@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String_baekjoon", "String_baekjoon\String_baekjoon.vcxproj", "{5EAABB75-82AB-48CB-9E2E-759CCA6BD92D}"
 EndProject
@@ -22,6 +22,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MST_baekjoon", "MST_baekjoon\MST_baekjoon.vcxproj", "{3BF14A55-414B-48A8-AADB-EC78BBB18A13}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra_baekjoon", "Dijkstra_baekjoon\Dijkstra_baekjoon.vcxproj", "{57D74817-CDF5-4D33-A97E-9FB603F6280F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShortestPath_baekjoon", "ShortestPath_baekjoon\ShortestPath_baekjoon.vcxproj", "{4357BCD5-8283-4955-8039-BCFDB6D76545}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SolvedAC_level2", "SolvedAC_level2\SolvedAC_level2.vcxproj", "{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,22 @@ Global
 		{57D74817-CDF5-4D33-A97E-9FB603F6280F}.Release|x64.Build.0 = Release|x64
 		{57D74817-CDF5-4D33-A97E-9FB603F6280F}.Release|x86.ActiveCfg = Release|Win32
 		{57D74817-CDF5-4D33-A97E-9FB603F6280F}.Release|x86.Build.0 = Release|Win32
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Debug|x64.ActiveCfg = Debug|x64
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Debug|x64.Build.0 = Debug|x64
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Debug|x86.ActiveCfg = Debug|Win32
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Debug|x86.Build.0 = Debug|Win32
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Release|x64.ActiveCfg = Release|x64
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Release|x64.Build.0 = Release|x64
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Release|x86.ActiveCfg = Release|Win32
+		{4357BCD5-8283-4955-8039-BCFDB6D76545}.Release|x86.Build.0 = Release|Win32
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Debug|x64.ActiveCfg = Debug|x64
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Debug|x64.Build.0 = Debug|x64
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Debug|x86.Build.0 = Debug|Win32
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Release|x64.ActiveCfg = Release|x64
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Release|x64.Build.0 = Release|x64
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Release|x86.ActiveCfg = Release|Win32
+		{CE76B296-2F7F-4F5C-872B-356BDB4DA5D7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
