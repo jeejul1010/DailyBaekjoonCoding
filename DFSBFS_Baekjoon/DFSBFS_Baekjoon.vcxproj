@@ -143,6 +143,7 @@
     <ClCompile Include="DFSBFS_1260.cpp" />
     <ClCompile Include="GraphA.cpp" />
     <ClCompile Include="Labeling_2667.cpp" />
+    <ClCompile Include="mazeSearch_2178.cpp" />
     <ClCompile Include="QueueP.cpp" />
     <ClCompile Include="StackA.cpp" />
     <ClCompile Include="Virus_2606.cpp" />
@@ -151,6 +152,7 @@
     <ClInclude Include="DFSBFS_1260.h" />
     <ClInclude Include="GraphA.h" />
     <ClInclude Include="Labeling_2667.h" />
+    <ClInclude Include="mazeSearch_2178.h" />
     <ClInclude Include="QueueP.h" />
     <ClInclude Include="StackA.h" />
     <ClInclude Include="Virus_2606.h" />
