@@ -141,10 +141,12 @@
     <ClCompile Include="DPMain.cpp" />
     <ClCompile Include="fibonacci_1003.cpp" />
     <ClCompile Include="FunFunctionExe_9184.cpp" />
+    <ClCompile Include="tiling2xn_11726.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fibonacci_1003.h" />
     <ClInclude Include="FunFunctionExe_9184.h" />
+    <ClInclude Include="tiling2xn_11726.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
