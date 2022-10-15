@@ -141,6 +141,7 @@
     <ClCompile Include="DPMain.cpp" />
     <ClCompile Include="fibonacci_1003.cpp" />
     <ClCompile Include="FunFunctionExe_9184.cpp" />
+    <ClCompile Include="tileFilling3_14852.cpp" />
     <ClCompile Include="tileFilling_2133.cpp" />
     <ClCompile Include="tiling2xn02_11727.cpp" />
     <ClCompile Include="tiling2xn_11726.cpp" />
@@ -148,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="fibonacci_1003.h" />
     <ClInclude Include="FunFunctionExe_9184.h" />
+    <ClInclude Include="tileFilling3_14852.h" />
     <ClInclude Include="tileFilling_2133.h" />
     <ClInclude Include="tiling2xn02_11727.h" />
     <ClInclude Include="tiling2xn_11726.h" />

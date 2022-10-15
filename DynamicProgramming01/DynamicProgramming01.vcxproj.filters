@@ -33,6 +33,9 @@
     <ClCompile Include="tileFilling_2133.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="tileFilling3_14852.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fibonacci_1003.h">
@@ -48,6 +51,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="tileFilling_2133.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="tileFilling3_14852.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

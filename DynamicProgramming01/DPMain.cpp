@@ -3,6 +3,7 @@
 #include "tiling2xn_11726.h"
 #include "tiling2xn02_11727.h"
 #include "tileFilling_2133.h"
+#include "tileFilling3_14852.h"
 
 int main()
 {
@@ -10,6 +11,7 @@ int main()
 	//funFunctionExe();
 	//tiling();
 	//tiling02();
-	tileFilling();
+	//tileFilling();
+	tileFilling3();
 	return 0;
 }
